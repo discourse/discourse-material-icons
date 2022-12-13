@@ -1,0 +1,10 @@
+{
+  "name": "discourse-material-icons",
+  "description": "Google Material Icons for Discourse",
+  "about_url": null,
+  "license_url": null,
+  "component": true,
+  "assets": {
+    "icons-sprite": "/assets/MaterialIcons-Regular.ttf"
+  }
+}
