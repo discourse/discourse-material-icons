@@ -1,7 +1,7 @@
 import { withPluginApi } from "discourse/lib/plugin-api"
 
 function initIcons(api) {
-  const s = "filled-"
+  const s = "m-"
   api.replaceIcon("address-book", s + "perm_contact_calendar")
   api.replaceIcon("adjust", s + "contrast")
   api.replaceIcon("ambulance", s + "medical_services")
