@@ -221,7 +221,7 @@ function initIcons(api) {
   api.replaceIcon("star", s + "star")
   api.replaceIcon("step-backward", s + "skip_previous")
   api.replaceIcon("step-forward", s + "skip_next")
-  api.replaceIcon("stream", s + "clear_all")
+  api.replaceIcon("stream", s + "format_align_justify")
   api.replaceIcon("sync", s + "sync")
   api.replaceIcon("sync-alt", s + "sync")
   api.replaceIcon("table", s + "table_chart")

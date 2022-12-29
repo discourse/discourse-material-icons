@@ -218,7 +218,7 @@
   "star": "mat-star",
   "step-backward": "mat-skip_previous",
   "step-forward": "mat-skip_next",
-  "stream": "mat-clear_all",
+  "stream": "mat-format_align_justify",
   "sync": "mat-sync",
   "sync-alt": "mat-sync",
   "table": "mat-table_chart",
