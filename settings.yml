@@ -1,9 +1,0 @@
-icon_style:
-  default: filled
-  type: enum
-  choices:
-    - outlined
-    - filled
-    - rounded
-    - sharp
-    - twotone
