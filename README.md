@@ -2,6 +2,8 @@
 
 Replacing Discourse's default icon set with Google Material Icons 
 
+![image](https://user-images.githubusercontent.com/37538241/210023055-0194b2bd-c0c1-4dc6-9085-c858ae903297.png)
+
 ## (Optional) How to change the default `filled` icon style
 
 There are 5 styles included:
