@@ -14,7 +14,7 @@ There are 5 styles included:
 - `rounded`
 - `twotone`
 
-To change from `filled` to another style has to be done manually for now. 
+Changing from `filled` to another style has to be done manually for now. 
 
 1. Download the `.svg` file of the style you want from the `/assets` folder locally
  - `outlined.svg`
