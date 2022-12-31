@@ -5,6 +5,6 @@
   "license_url": null,
   "component": true,
   "assets": {
-    "icons-sprite": "/assets/MaterialIcons-Regular.svg"
+    "icons-sprite": "/assets/filled.svg"
   }
 }
