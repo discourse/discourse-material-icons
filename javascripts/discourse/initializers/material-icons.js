@@ -62,6 +62,7 @@ function initIcons(api) {
   api.replaceIcon("credit-card", s + "credit_card")
   api.replaceIcon("crosshairs", s + "my_location")
   api.replaceIcon("cube", s + "view_in_ar")
+  api.replaceIcon("d-chat", s + "chat_bubble")
   api.replaceIcon("d-drop-collapsed", s + "arrow_right")
   api.replaceIcon("d-drop-expanded", s + "arrow_drop_down")
   api.replaceIcon("d-liked", s + "favorite")
