@@ -105,7 +105,7 @@ function initIcons(api) {
   api.replaceIcon("far-copyright", s + "copyright");
   api.replaceIcon("far-credit-card", s + "credit_card");
   api.replaceIcon("far-circle-dot", s + "radio_button_checked");
-  api.replaceIcon("far-pen-to-square", s + "pen-to-square");
+  api.replaceIcon("far-pen-to-square", s + "edit");
   api.replaceIcon("far-envelope", s + "mail");
   api.replaceIcon("far-eye", s + "visibility");
   api.replaceIcon("far-eye-slash", s + "visibility_off");
@@ -133,7 +133,7 @@ function initIcons(api) {
   api.replaceIcon("flag", s + "flag");
   api.replaceIcon("folder", s + "folder");
   api.replaceIcon("folder-open", s + "folder_open");
-  api.replaceIcon("forward", s + "forward-fast");
+  api.replaceIcon("forward", s + "fast-forward");
   api.replaceIcon("gavel", s + "gavel");
   api.replaceIcon("globe", s + "language");
   api.replaceIcon("earth-americas", s + "public");
@@ -141,7 +141,7 @@ function initIcons(api) {
   api.replaceIcon("handshake-angle", s + "handshake");
   api.replaceIcon("hashtag", s + "tag");
   api.replaceIcon("heart", s + "favorite");
-  api.replaceIcon("clock-rotate-left", s + "clock-rotate-left");
+  api.replaceIcon("clock-rotate-left", s + "history");
   api.replaceIcon("house", s + "house");
   api.replaceIcon("hourglass-start", s + "hourglass_top");
   api.replaceIcon("id-card", s + "badge");
@@ -194,7 +194,7 @@ function initIcons(api) {
   api.replaceIcon("paintbrush", s + "brush");
   api.replaceIcon("paper-plane", s + "send");
   api.replaceIcon("pause", s + "pause");
-  api.replaceIcon("pencil", s + "pen-to-square");
+  api.replaceIcon("pencil", s + "edit");
   api.replaceIcon("play", s + "play_arrow");
   api.replaceIcon("plug", s + "power");
   api.replaceIcon("plus", s + "add");
@@ -205,11 +205,11 @@ function initIcons(api) {
   api.replaceIcon("question", s + "question_mark");
   api.replaceIcon("circle-question", s + "help_outline");
   api.replaceIcon("shuffle", s + "shuffle");
-  api.replaceIcon("arrow-rotate-right", s + "arrow-rotate-right");
+  api.replaceIcon("arrow-rotate-right", s + "redo");
   api.replaceIcon("reply", s + "reply");
   api.replaceIcon("rocket", s + "rocket_launch");
-  api.replaceIcon("floppy-disk", s + "floppy-disk");
-  api.replaceIcon("magnifying-glass", s + "magnifying-glass");
+  api.replaceIcon("floppy-disk", s + "save");
+  api.replaceIcon("magnifying-glass", s + "search");
   api.replaceIcon("share", s + "ios_share");
   api.replaceIcon("shield", s + "shield");
   api.replaceIcon("right-to-bracket", s + "login");
@@ -223,8 +223,8 @@ function initIcons(api) {
   api.replaceIcon("backward-step", s + "skip_previous");
   api.replaceIcon("forward-step", s + "skip_next");
   api.replaceIcon("bars-staggered", s + "format_align_justify");
-  api.replaceIcon("arrows-rotate", s + "arrows-rotate");
-  api.replaceIcon("rotate", s + "arrows-rotate");
+  api.replaceIcon("arrows-rotate", s + "sync");
+  api.replaceIcon("rotate", s + "sync");
   api.replaceIcon("table", s + "table_chart");
   api.replaceIcon("tag", s + "sell");
   api.replaceIcon("tags", s + "sell");
@@ -238,7 +238,7 @@ function initIcons(api) {
   api.replaceIcon("toggle-off", s + "toggle_off");
   api.replaceIcon("toggle-on", s + "toggle_on");
   api.replaceIcon("trash-can", s + "delete");
-  api.replaceIcon("arrow-rotate-left", s + "arrow-rotate-left");
+  api.replaceIcon("arrow-rotate-left", s + "undo");
   api.replaceIcon("link-slash", s + "link_off");
   api.replaceIcon("unlock", s + "lock_open");
   api.replaceIcon("unlock-keyhole", s + "lock_open");
